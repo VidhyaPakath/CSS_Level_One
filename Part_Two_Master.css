@@ -1,0 +1,21 @@
+
+body{
+  background: url(https://asknature.org/);
+  background-repeat: no-repeat;
+}
+
+div{
+  background-color: yellow;
+  border-color: black;
+  border-width: medium;
+  border-style: groove;
+}
+
+p{
+  color: black;
+}
+
+span{
+  background-color: orange;
+  color: green;
+}

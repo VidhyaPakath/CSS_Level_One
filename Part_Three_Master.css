@@ -1,0 +1,23 @@
+
+.firstclass{
+  color: green;
+}
+
+.secondclass{
+  color: magenta;
+}
+
+#singledout{
+  color: blue;
+  text-decoration: line-through;
+}
+
+h3 + ul{
+  border-color: yellow;
+  border-width: thick;
+  border-style: groove;
+}
+
+li a{
+  color: brown;
+}
